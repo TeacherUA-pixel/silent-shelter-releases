@@ -4,9 +4,12 @@
 
 ## Завантажити
 
-👉 **[Остання версія (APK)](https://github.com/TeacherUA-pixel/silent-shelter-releases/releases/latest)**
+👉 **[Завантажити «Тихий Клас» (APK)](https://github.com/TeacherUA-pixel/silent-shelter-releases/releases/latest/download/SilentShelter.apk)**
 
-1. Відкрийте посилання на телефоні Android і завантажте файл `SilentShelter-…-release.apk`.
+Пряме посилання завжди веде на найновішу версію:
+`https://github.com/TeacherUA-pixel/silent-shelter-releases/releases/latest/download/SilentShelter.apk`
+
+1. Відкрийте посилання на телефоні Android — файл `SilentShelter.apk` завантажиться одразу.
 2. Дозвольте встановлення з браузера, якщо Android попросить.
 3. Далі застосунок оновлюватиметься сам: коли телефон має інтернет, він покаже «Доступне оновлення».
 
